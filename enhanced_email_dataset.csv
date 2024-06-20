@@ -1,0 +1,13 @@
+text,label
+"Dear user, your account has been suspended. Click here to reactivate.",phishing
+Please verify your recent purchase by clicking this link.,phishing
+Your order has been shipped and will arrive soon.,legitimate
+Meeting tomorrow at 10 AM in the conference room.,legitimate
+Update your payment information immediately.,phishing
+Can you review this document by end of day?,legitimate
+Your account will be deactivated. Click to update your details.,phishing
+Reminder: Your scheduled maintenance on Friday.,legitimate
+Special offer just for you! Click to claim your prize.,phishing
+Don't forget to submit your project by Thursday.,legitimate
+Confirm your email address to access your account.,phishing
+Your recent invoice is ready for download.,legitimate
